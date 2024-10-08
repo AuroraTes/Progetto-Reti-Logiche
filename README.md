@@ -10,7 +10,7 @@ Docente: Palermo Gianluca
 
 ## Obiettivo del progetto
 
-L'obiettivo del progetto è quello di descrivere in VHDL un componente hardware che applica ad un flusso di bit il **codice convoluzionale 1/2, ovvero per ogni bit ricevuto in ingresso viene codificato con due bit in uscita .
+L'obiettivo del progetto è quello di descrivere in VHDL un componente hardware che applica ad un flusso di bit il **codice convoluzionale 1/2**, ovvero per ogni bit ricevuto in ingresso viene codificato con due bit in uscita .
 
 La specifica completa è disponibile [qui] (https://github.com/AuroraTes/VHDL/Documents/PFRL_Specifica_21_22_V3.pdf)
 
