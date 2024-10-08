@@ -1,6 +1,6 @@
 # Progetto di Reti Logiche - A.A. 2021-2022
 
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://github.com/AuroraTes/VHDL/LICENSE)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://github.com/AuroraTes/Progetto-Reti-Logiche-21-22/blob/main/LICENSE)
 
 Prova finale di Reti Logiche per l'anno accademico 2021-2022.
 
@@ -12,13 +12,13 @@ Docente: Palermo Gianluca
 
 L'obiettivo del progetto è quello di descrivere in VHDL un componente hardware che applica ad un flusso di bit il **codice convoluzionale 1/2**, ovvero per ogni bit ricevuto in ingresso viene codificato con due bit in uscita .
 
-La specifica completa è disponibile [qui](https://github.com/AuroraTes/VHDL/Documents/PFRL_Specifica_21_22_V3.pdf)
+La specifica completa è disponibile [qui](https://github.com/AuroraTes/Progetto-Reti-Logiche-21-22/blob/main/Documents/PFRL_Specifica_21_22_V3.pdf)
 
-Le regole del progetto sono disponibili [qui](https://github.com/AuroraTes/VHDL/Documents/PFRL_Regole_21_22.pdf)
+Le regole del progetto sono disponibili [qui](https://github.com/AuroraTes/Progetto-Reti-Logiche-21-22/blob/main/Documents/PFRL_Regole_21_22.pdf)
 
 ## Documentazione
 
-La documentazione per il progetto è disponibile [qui](https://github.com/AuroraTes/VHDL/Documents/Report.pdf)
+Il report che documenta la creazione e lo sviluppo del progetto è disponibile [qui](https://github.com/AuroraTes/Progetto-Reti-Logiche-21-22/blob/main/Documents/Report.pdf)
 
 ## Strumenti utilizzati
 
@@ -29,4 +29,4 @@ La documentazione per il progetto è disponibile [qui](https://github.com/Aurora
 
 ## Copyright e licenza
 
-Il progetto è distribuito sotto [licenza GPL v2](https://github.com/AuroraTes/VHDL/LICENSE), si applicano le limitazioni descritte in tale licenza.
+Il progetto è distribuito sotto [licenza GPL v2](https://github.com/AuroraTes/Progetto-Reti-Logiche-21-22/blob/main/LICENSE), si applicano le limitazioni descritte in tale licenza.
